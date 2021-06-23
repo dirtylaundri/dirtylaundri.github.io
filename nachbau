@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+blockquote {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 0em;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+h1 {
+float: right;
+width: 40%;
+display: table-cell;
+padding: 0px 5px 0px 5px;
+font-size: 25px;
+font-family: verdana;
+color: magenta;
+}
+.headernumber {
+  color: red;
+  font-size: 20px;
+  font-family: verdana;
+  display: table-cell;
+  padding: 0px 20px 0px 0px;
+}
+.headernumberright {
+  color: red;
+  font-size: 20px;
+  font-family: verdana;
+  display: table-cell;
+  padding: 0px 20px 0px 0px;
+  float: right;
+}
+.h2 {
+width: 100%;
+float: right;
+padding: 50px 0px 0px 0px;
+}
+.headertitle {
+font-size: 16px;
+font-family: arial;
+display: table-cell;
+}
+.headertitleright {
+font-size: 16px;
+font-family: arial;
+display: table-cell;
+float: right;
+}
+.maintextleft {
+font-family: times-new-roman;
+font-size: 18 px;
+padding: 5px 10px 5px 10px;
+float: left;
+width: 45%;
+display: table-cell;
+text-indent: 20px each-line;
+}
+.maintextright {
+font-family: times-new-roman;
+font-size: 18 px;
+padding: 5px 10px 5px 10px;
+float: right;
+width: 45%;
+display: table-cell;
+}
+.infobox {
+margin-top: 1em;
+font-family: verdana;
+font-size: 15px;
+float: left;
+width: 45%;
+display: table-cell;
+padding: 5px 10px 5px 10px;
+background-color: orange;
+border-color: green;
+border-width: 5px;
+border-style: solid;
+}
+.beg {
+padding: 20px
+}
+</style>
+</head>
+<body>
+
+<div class="headernumber">
+<p>249</p>
+</div>
+<div class="headertitle">
+<p>Chapter 9: Survey Results</p>
+</div>
+
+<article class="maintextleft">
+<p>
+polls often tell voters not to trust the polls). But
+polls are also criticized for being too accurate—
+as when exit polls on Election Day are used
+to predict a winner before the actual voting is
+complete. <br>
+<span style="padding:0px 0px 0px 20px">The</span> general attitude toward public opinion
+research is further complicated by scientifically
+unsound “surveys” that nonetheless capture
+people’s attention because of the topics they
+cover and/or their “findings.” A good example
+is the “Hite Reports” on human sexuality. While
+enjoying considerable attention in the popular
+press, Shere Hite was roundly criticized by the
+research community for her data-collection
+methods. For example, a 1987 Hite report was
+based on questionnaires completed by women
+around the country—but which women? Hite
+reported that she distributed some 100,000 
+questionnaires through various organizations, and
+around 4,500 were returned.<br>
+<span style="padding:0px 0px 0px 20px">Now</span>, 4,500 and 100,000 are large numbers in
+the context of survey sampling. However, given
+Hite’s research methods, her 4,500 respondents
+didn’t necessarily represent U.S. women any more
+than the Literary Digest’s enormous 1936 sample
+represented the U.S. electorate when their
+2 million sample ballots indicated that Alf Landon
+would bury FDR in a landslide.<br>
+<span style="padding:0px 0px 0px 20px">Sometimes</span>, people use the pretense of
+survey research for quite different purposes. For
+example, you may have received a telephone call
+indicating you’ve been selected for a survey, only
+to find that the first question was “How would you
+like to make thousands of dollars a week right in
+your own home?” Or you may have been told you
+could win a prize if you could name the president
+whose picture is on the penny. (Tell them it’s Elvis.)
+Unfortunately, a few unscrupulous telemarketers
+try to prey on the general cooperation people have
+given to survey researchers.<br>
+<span style="padding:0px 0px 0px 20px">By</span> the same token, political parties and
+charitable organizations have begun conducting
+phony “surveys.” Often under the guise of
+collecting public opinion about some issue,
+</p>
+</article>
+<article class="maintextright">
+<p>
+callers ultimately ask respondents for a monetary
+contribution.
+<span style="padding:0px 0px 0px 20px">Recent</span> political campaigns have produced
+another form of bogus survey, the “push poll.”
+Here’s what the American Association for
+Public Opinion Polling has said in condemning
+this practice (see also Figure 3-1):<br>
+<blockquote>A “push poll” is a telemarketing technique in
+which telephone calls are used to canvass
+potential voters, feeding them false or misleading “information” about a candidate under
+the pretense of taking a poll to see how this
+“information” affects voter preferences.
+In fact, the intent is not to measure public
+opinion but to manipulate it—to “push” voters
+away from one candidate and toward the
+opposing candidate. Such polls defame selected
+candidates by spreading false or misleading
+information about them. The intent is to disseminate campaign propaganda under the guise
+of conducting a legitimate public opinion poll.
+(<i>Bednarz</i> 1996)</blockquote><br>
+<span style="padding:0px 0px 0px 20px">In</span> short, the labels “survey” and “poll” are
+sometimes misused. Done properly, however,
+survey research can be a useful tool of social
+inquiry. Designing useful (and trustworthy)
+survey research begins with formulating good
+questions. Let’s turn to that topic now.
+</p>
+</article>
+
+<h1>
+Guidelines for Asking Questions
+</h1>
+
+<article class="maintextright">
+<p>
+<span style="padding: 0px 0px 0px 20px">In</span> social research, variables are often operationalized when researchers ask people questions as
+a way of getting data for analysis and interpretation. Sometimes the questions are asked by an
+interviewer; sometimes they are written down
+and given to respondents for completion. In
+other cases, several general guidelines can help
+researchers frame and ask questions that serve as
+excellent operationalizations of variables while
+avoiding pitfalls that can result in useless or even
+misleading information.<br>
+<span style="padding:0px 0px 0px 20px">Surveys</span> include the use of a <span style="color:orange;">questionnaire</span> —
+an instrument specifically designed to elicit information that will be useful for analysis. Although
+some of the specific points to follow are more
+appropriate to structured questionnaires than to
+the more open-ended questionnaires used in
+qualitative, in-depth interviewing, the underlying
+</p>
+</article>
+
+<div class="infobox">
+<p>
+<span style="color:red"><strong>questionnaire</strong></span> A document containing questions
+and other types of items designed to solicit
+information appropriate for analysis. Questionnaires are used primarily in survey research but
+also in experiments, field research, and other
+modes of observation.
+</p>
+</div>
+<div class="headertitleright">
+<p>Chapter 9: Survey Results</p>
+</div>
+<div class="headernumberright">
+<p style="margin-top:2.5em">249</p>
+</div>
+
+
+
+
+<article class="maintextleft">
+<p>
+polls often tell voters not to trust the polls). But
+polls are also criticized for being too accurate—
+as when exit polls on Election Day are used
+to predict a winner before the actual voting is
+complete. <br>
+<span style="padding:0px 0px 0px 20px">The</span> general attitude toward public opinion
+research is further complicated by scientifically
+unsound “surveys” that nonetheless capture
+people’s attention because of the topics they
+cover and/or their “findings.” A good example
+is the “Hite Reports” on human sexuality. While
+enjoying considerable attention in the popular
+press, Shere Hite was roundly criticized by the
+research community for her data-collection
+methods. For example, a 1987 Hite report was
+based on questionnaires completed by women
+around the country—but which women? Hite
+reported that she distributed some 100,000 
+questionnaires through various organizations, and
+around 4,500 were returned.<br>
+<span style="padding:0px 0px 0px 20px">Now</span>, 4,500 and 100,000 are large numbers in
+the context of survey sampling. However, given
+Hite’s research methods, her 4,500 respondents
+didn’t necessarily represent U.S. women any more
+than the Literary Digest’s enormous 1936 sample
+represented the U.S. electorate when their
+2 million sample ballots indicated that Alf Landon
+would bury FDR in a landslide.<br>
+<span style="padding:0px 0px 0px 20px">Sometimes</span>, people use the pretense of
+survey research for quite different purposes. For
+example, you may have received a telephone call
+indicating you’ve been selected for a survey, only
+to find that the first question was “How would you
+like to make thousands of dollars a week right in
+your own home?” Or you may have been told you
+could win a prize if you could name the president
+whose picture is on the penny. (Tell them it’s Elvis.)
+Unfortunately, a few unscrupulous telemarketers
+try to prey on the general cooperation people have
+given to survey researchers.<br>
+<span style="padding:0px 0px 0px 20px">By</span> the same token, political parties and
+charitable organizations have begun conducting
+phony “surveys.” Often under the guise of
+collecting public opinion about some issue,
+</p>
+</article>
+<article class="maintextright">
+<p>
+callers ultimately ask respondents for a monetary
+contribution.
+<span style="padding:0px 0px 0px 20px">Recent</span> political campaigns have produced
+another form of bogus survey, the “push poll.”
+Here’s what the American Association for
+Public Opinion Polling has said in condemning
+this practice (see also Figure 3-1):<br>
+<blockquote>A “push poll” is a telemarketing technique in
+which telephone calls are used to canvass
+potential voters, feeding them false or misleading “information” about a candidate under
+the pretense of taking a poll to see how this
+“information” affects voter preferences.
+In fact, the intent is not to measure public
+opinion but to manipulate it—to “push” voters
+away from one candidate and toward the
+opposing candidate. Such polls defame selected
+candidates by spreading false or misleading
+information about them. The intent is to disseminate campaign propaganda under the guise
+of conducting a legitimate public opinion poll.
+(<i>Bednarz</i> 1996)</blockquote><br>
+<span style="padding:0px 0px 0px 20px">In</span> short, the labels “survey” and “poll” are
+sometimes misused. Done properly, however,
+survey research can be a useful tool of social
+inquiry. Designing useful (and trustworthy)
+survey research begins with formulating good
+questions. Let’s turn to that topic now.
+</p>
+</article>
+
+<h1>
+Guidelines for Asking Questions
+</h1>
+
+<article class="maintextright">
+<p>
+<span style="padding: 0px 0px 0px 20px">In</span> social research, variables are often operationalized when researchers ask people questions as
+a way of getting data for analysis and interpretation. Sometimes the questions are asked by an
+interviewer; sometimes they are written down
+and given to respondents for completion. In
+other cases, several general guidelines can help
+researchers frame and ask questions that serve as
+excellent operationalizations of variables while
+avoiding pitfalls that can result in useless or even
+misleading information.<br>
+<span style="padding:0px 0px 0px 20px">Surveys</span> include the use of a <span style="color:orange;">questionnaire</span> —
+an instrument specifically designed to elicit information that will be useful for analysis. Although
+some of the specific points to follow are more
+appropriate to structured questionnaires than to
+the more open-ended questionnaires used in
+qualitative, in-depth interviewing, the underlying
+</p>
+</article>
+
+<div class="infobox">
+<p>
+<span style="color:red"><strong>questionnaire</strong></span> A document containing questions
+and other types of items designed to solicit
+information appropriate for analysis. Questionnaires are used primarily in survey research but
+also in experiments, field research, and other
+modes of observation.
+</p>
+
+</div>
+<table class="h2">
+<tr>
+    <th style="float:right">Firstname</th>
+    <th style="float:right; padding:0px 5px 0px 0px">Lastname</th>
+</tr>
+</table>
+
+</body>
+</html>
