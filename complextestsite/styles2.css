@@ -15,3 +15,8 @@ header {
   border-top-style: solid;
   background-color:#FFFFFF;
   }
+.bildteaser {
+  float:left;
+  padding: 0pc 5px 0px 5px;
+  background-colour:#000000;
+  }
