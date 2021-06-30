@@ -13,6 +13,7 @@ header {
   font-size: 25px;
   font-weight: bold;
   border-top-style: solid;
+  background-clip: padding-box;
   background-color:#FFFFFF;
   }
 .bildteaser {
