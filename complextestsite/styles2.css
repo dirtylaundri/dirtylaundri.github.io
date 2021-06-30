@@ -5,6 +5,8 @@ header {
   padding: 0px 20px 0px 20px;
   }
 .header2 {
+  position: relative;
+  left: 20px;
   padding: 0px 20px 0px 20px;
   float:left;
   font-size: 25px;
