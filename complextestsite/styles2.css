@@ -35,7 +35,8 @@ figcaption::first-line {
   }
 .artikelliste {
   position: relative;
-  width: 70%;
+  width: 30%;
+  float: left;
   }
 img {
   vertical-align:top;
