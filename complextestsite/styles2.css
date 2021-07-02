@@ -33,3 +33,7 @@ figcaption::first-line {
   color:#ffffff;
   font-size:2rem
   }
+.artikelliste {
+  position: relative;
+  width: 70%;
+  }
