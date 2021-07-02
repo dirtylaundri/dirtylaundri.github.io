@@ -25,3 +25,11 @@ figure {
   padding: 0;
   margin: 0;
   }
+figcaption {
+  color:#0000ff;
+  font-size:1.2rem;
+  }
+figcaption::first-line {
+  color:#ffffff;
+  font-size:2rem
+  }
