@@ -37,3 +37,6 @@ figcaption::first-line {
   position: relative;
   width: 70%;
   }
+img {
+  vertical-align:top;
+  }
